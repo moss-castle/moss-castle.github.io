@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://https://moss-castle.github.io</id>
+    <title>Moss Castle</title>
+    <updated>2025-11-29T04:59:10.139Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://https://moss-castle.github.io"/>
+    <link rel="self" href="https://https://moss-castle.github.io/atom.xml"/>
+    <subtitle>Natural Castle FM 11.24
+Capturing useless noise and real sighs.</subtitle>
+    <logo>https://https://moss-castle.github.io/images/avatar.png</logo>
+    <icon>https://https://moss-castle.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Moss Castle</rights>
+    <entry>
+        <title type="html"><![CDATA[first-post]]></title>
+        <id>https://https://moss-castle.github.io/post/first-post/</id>
+        <link href="https://https://moss-castle.github.io/post/first-post/">
+        </link>
+        <updated>2025-11-29T04:40:12.000Z</updated>
+        <content type="html"><![CDATA[<p>Ты влюбилась в свою фантазию</p>
+]]></content>
+    </entry>
+</feed>
